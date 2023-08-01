@@ -40,3 +40,4 @@ The research and findings related to the Smart Almost Following You Wallet have 
 
 The Smart Almost Following You Wallet is a reliable and intelligent companion, ensuring you never forget your wallet and enjoy enhanced security and convenience.
 
+![S  Karun-1](https://github.com/karun2328/Research-paper-Research-on-RFID-Based-Wallet-Detection-System-/assets/114997424/08b086a5-0058-441f-9eb7-13b19c683770)
